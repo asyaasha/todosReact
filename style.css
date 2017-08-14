@@ -1,0 +1,20 @@
+body {
+padding: 50px;
+font-size: 20px;
+margin: 20px;
+padding: 20px;
+}
+
+.jumbotron {
+  margin-top: 48px;
+}
+button {
+  margin:5px;
+}
+td {
+  padding-right: 30px;
+  font-weight: 400;
+}
+form{
+  margin-bottom: 15px;
+}
